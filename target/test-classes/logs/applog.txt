@@ -1,0 +1,30 @@
+INFO    2019-07-05 15:11:52,346 [pool-1-thread-1] com.directLine.vehicleExistence.steps.BaseSteps  - Config properties file loaded
+INFO    2019-07-05 15:11:52,346 [pool-1-thread-2] com.directLine.vehicleExistence.steps.BaseSteps  - Config properties file loaded
+INFO    2019-07-05 15:12:18,883 [pool-1-thread-2] com.directLine.vehicleExistence.steps.BaseSteps  - Driver Initialized !!!
+INFO    2019-07-05 15:12:19,702 [pool-1-thread-1] com.directLine.vehicleExistence.steps.BaseSteps  - Driver Initialized !!!
+INFO    2019-07-05 15:12:40,397 [pool-1-thread-1] com.directLine.vehicleExistence.PageObjects.VehicleSearchHomePage  - Inside enterVehicleRegistrationNumber method
+INFO    2019-07-05 15:12:40,553 [pool-1-thread-1] com.directLine.vehicleExistence.PageObjects.VehicleSearchHomePage  - Inside clickOnFindVehicleButton method in VehicleSearchHomePage.java class
+INFO    2019-07-05 15:12:45,482 [pool-1-thread-2] com.directLine.vehicleExistence.PageObjects.VehicleSearchHomePage  - Inside enterVehicleRegistrationNumber method
+INFO    2019-07-05 15:12:45,648 [pool-1-thread-2] com.directLine.vehicleExistence.PageObjects.VehicleSearchHomePage  - Inside clickOnFindVehicleButton method in VehicleSearchHomePage.java class
+INFO    2019-07-05 15:12:47,795 [pool-1-thread-2] com.directLine.vehicleExistence.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2019-07-05 15:12:47,811 [pool-1-thread-1] com.directLine.vehicleExistence.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2019-07-05 15:14:12,113 [pool-1-thread-2] com.directLine.vehicleExistence.steps.BaseSteps  - Config properties file loaded
+INFO    2019-07-05 15:14:12,114 [pool-1-thread-1] com.directLine.vehicleExistence.steps.BaseSteps  - Config properties file loaded
+INFO    2019-07-05 15:14:23,996 [pool-1-thread-2] com.directLine.vehicleExistence.steps.BaseSteps  - Driver Initialized !!!
+INFO    2019-07-05 15:14:23,996 [pool-1-thread-1] com.directLine.vehicleExistence.steps.BaseSteps  - Driver Initialized !!!
+INFO    2019-07-05 15:14:46,924 [pool-1-thread-2] com.directLine.vehicleExistence.PageObjects.VehicleSearchHomePage  - Inside enterVehicleRegistrationNumber method
+INFO    2019-07-05 15:14:47,072 [pool-1-thread-1] com.directLine.vehicleExistence.PageObjects.VehicleSearchHomePage  - Inside enterVehicleRegistrationNumber method
+INFO    2019-07-05 15:14:47,171 [pool-1-thread-2] com.directLine.vehicleExistence.PageObjects.VehicleSearchHomePage  - Inside clickOnFindVehicleButton method in VehicleSearchHomePage.java class
+INFO    2019-07-05 15:14:47,265 [pool-1-thread-1] com.directLine.vehicleExistence.PageObjects.VehicleSearchHomePage  - Inside clickOnFindVehicleButton method in VehicleSearchHomePage.java class
+INFO    2019-07-05 15:14:54,212 [pool-1-thread-1] com.directLine.vehicleExistence.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2019-07-05 15:14:54,227 [pool-1-thread-2] com.directLine.vehicleExistence.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2019-07-05 15:16:07,354 [pool-1-thread-2] com.directLine.vehicleExistence.steps.BaseSteps  - Config properties file loaded
+INFO    2019-07-05 15:16:07,354 [pool-1-thread-1] com.directLine.vehicleExistence.steps.BaseSteps  - Config properties file loaded
+INFO    2019-07-05 15:16:18,737 [pool-1-thread-2] com.directLine.vehicleExistence.steps.BaseSteps  - Driver Initialized !!!
+INFO    2019-07-05 15:16:18,737 [pool-1-thread-1] com.directLine.vehicleExistence.steps.BaseSteps  - Driver Initialized !!!
+INFO    2019-07-05 15:16:38,119 [pool-1-thread-1] com.directLine.vehicleExistence.PageObjects.VehicleSearchHomePage  - Inside enterVehicleRegistrationNumber method
+INFO    2019-07-05 15:16:38,136 [pool-1-thread-2] com.directLine.vehicleExistence.PageObjects.VehicleSearchHomePage  - Inside enterVehicleRegistrationNumber method
+INFO    2019-07-05 15:16:38,298 [pool-1-thread-1] com.directLine.vehicleExistence.PageObjects.VehicleSearchHomePage  - Inside clickOnFindVehicleButton method in VehicleSearchHomePage.java class
+INFO    2019-07-05 15:16:38,465 [pool-1-thread-2] com.directLine.vehicleExistence.PageObjects.VehicleSearchHomePage  - Inside clickOnFindVehicleButton method in VehicleSearchHomePage.java class
+INFO    2019-07-05 15:16:41,717 [pool-1-thread-1] com.directLine.vehicleExistence.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2019-07-05 15:16:41,748 [pool-1-thread-2] com.directLine.vehicleExistence.steps.BaseSteps  - Test Execution Completed !!!

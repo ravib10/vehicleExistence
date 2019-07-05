@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30306" started-at="2019-07-05T14:18:50Z" finished-at="2019-07-05T14:19:21Z">
+    <groups>
+    </groups>
+    <test name="Test - Parallel Execution" duration-ms="30306" started-at="2019-07-05T14:18:50Z" finished-at="2019-07-05T14:19:21Z">
+      <class name="com.directLine.vehicleExistence.runners.VehicleSearchFailureFeatureRunner">
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:com.directLine.vehicleExistence.runners.VehicleSearchFailureFeatureRunner@735f7ae5]" name="runCukes" duration-ms="30242" started-at="2019-07-05T15:18:50Z" finished-at="2019-07-05T15:19:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+      </class> <!-- com.directLine.vehicleExistence.runners.VehicleSearchFailureFeatureRunner -->
+      <class name="com.directLine.vehicleExistence.runners.VehicleSearchFeatureRunner">
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:com.directLine.vehicleExistence.runners.VehicleSearchFeatureRunner@4e04a765]" name="runCukes" duration-ms="29989" started-at="2019-07-05T15:18:50Z" finished-at="2019-07-05T15:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+      </class> <!-- com.directLine.vehicleExistence.runners.VehicleSearchFeatureRunner -->
+    </test> <!-- Test - Parallel Execution -->
+  </suite> <!-- Suite -->
+</testng-results>

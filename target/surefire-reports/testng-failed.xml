@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="2" name="Test - Parallel Execution" parallel="classes">
+    <classes>
+      <class name="com.directLine.vehicleExistence.runners.VehicleSearchFeatureRunner"/>
+      <class name="com.directLine.vehicleExistence.runners.VehicleSearchFailureFeatureRunner"/>
+    </classes>
+  </test> <!-- Test - Parallel Execution -->
+</suite> <!-- Failed suite [Suite] -->
