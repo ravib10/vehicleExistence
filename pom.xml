@@ -117,7 +117,7 @@
                             </suiteXmlFiles>
 
                             <systemPropertyVariables>
-                                <!--                                <cucumber.options>&#45;&#45;tags @test</cucumber.options>-->
+                                <!--                                <cucumber.options>@VehicleSearch</cucumber.options>-->
                             </systemPropertyVariables>
                         </configuration>
                     </plugin>
@@ -127,8 +127,6 @@
             </build>
         </profile>
     </profiles>
-
-
 
 
 </project>

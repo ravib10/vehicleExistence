@@ -15,4 +15,4 @@ Given Launch browser "<browser>"
     Examples:
       |browser| VehicleNumber |StartDate|EndDate|
       |chrome| OV12UYY  |09 FEB 2022 : 16 : 26|18 FEB 2022 : 23 : 59|
-      #|firefox| OV12UYY  |09 FEB 2022 : 16 : 26| 18 FEB 2022 : 23 : 59|
+      |firefox| OV12UYY  |09 FEB 2022 : 16 : 26| 18 FEB 2022 : 23 : 59|
