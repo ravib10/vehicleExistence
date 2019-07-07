@@ -56,7 +56,7 @@ public class ExtentManager {
 			e.printStackTrace();
 		}
 
-	
+
 	}
 	
 	}

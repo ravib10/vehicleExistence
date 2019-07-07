@@ -49,7 +49,7 @@ public class ExtentTestManager {
 		try {
 
 			testReport.get().fail("<b>" + "<font color=" + "red>" + "Screenshot of failure" + "</font>" + "</b>",
-					MediaEntityBuilder.createScreenCaptureFromPath(ExtentManager.screenshotName).build());
+					MediaEntityBuilder.createScreenCaptureFromPath(System.getProperty("user.dir") + "//reports//ScreenShot//"+ExtentManager.screenshotName).build());
 		} catch (IOException e) {
 
 		}
