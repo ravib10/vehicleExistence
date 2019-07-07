@@ -8,13 +8,13 @@ import org.testng.annotations.Test;
 		features="src/test/resources/features/VehicleSearchFailure.feature",
 		glue="com.directLine.vehicleExistence.steps"
 
-		)
+)
 
 public class VehicleSearchFailureFeatureRunner {
 
 	@Test
 	public void runCukes() {
-				new TestNGCucumberRunner(getClass()).runCukes();
+		new TestNGCucumberRunner(getClass()).runCukes();
 
 	}
 

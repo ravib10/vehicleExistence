@@ -23,12 +23,6 @@ public class DirectLineSteps extends BaseSteps {
 	@Before
 	public synchronized void  before(Scenario scenario) {
 
-		try {
-			Thread.sleep(1000);
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
 		//x is to add the scenario number in report.
 		x = x + 1;
 		this.scenario = scenario;

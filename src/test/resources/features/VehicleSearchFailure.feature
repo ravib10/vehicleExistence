@@ -11,6 +11,6 @@ Given Launch browser "<browser>"
     Then Verify error message is appearing on the homepage or not "<VehicleNumber>"
 
     Examples:
-      |browser| VehicleNumber |StartDate|EndDate|
-      |chrome| OV12UYY4  |09 FEB 2022 : 16 : 26|18 FEB 2022 : 23 : 59|
-      #|firefox| OV12UYY4  |09 FEB 2022 : 16 : 26| 18 FEB 2022 : 23 : 59|
+      |browser| VehicleNumber |
+      |chrome| OV12UYY4  |
+      |firefox| OV12UYY4  |
